@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'E-Commerce Web App',
     description: 'An e-commerce website where users can browse products, Search products and add items to a cart.',
-    image: 'https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80',
+    image: 'https://www.nakshtechnologies.com/wp-content/uploads/2021/10/732-7329685_e-commerce-website-background-image-e-commerce-website-removebg-preview.png',
     tags: ['React', 'JavaScript', 'Context Api', 'HTML', 'CSS'],
     githubLink: 'https://github.com/DishKhant/E-Commerce-Web-App',
     liveLink: 'https://e-commerce-web-app-dish-khants-projects.vercel.app',
@@ -12,7 +12,7 @@ const projects = [
   {
     title: 'Expense Tracker App',
     description: 'A personal finance management tool to track income and expenses with categories.',
-    image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80',
+    image: 'https://www.planetcrust.com/wp-content/uploads/2023/11/228.-Mastering-Your-Finances-Building-an-AI-Powered-Expense-Tracking-App-01.png',
     tags: ['React', 'Typescript', 'JavaScript', 'Context Api', 'CSS'],
     githubLink: 'https://github.com/DishKhant/expense-tracker-app',
     liveLink: 'https://expense-tracker-app-dish-khants-projects.vercel.app',
@@ -20,7 +20,7 @@ const projects = [
   {
     title: 'Recipe Finder App',
     description: 'An intuitive app to explore and search recipes, with the ability to save your favorite dishes effortlessly.',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80',
+    image: 'https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/food-recipes-by-ingredients-sites-apps-featured.jpg',
     tags: ['React', 'JavaScript', 'Redux', 'Bootstrap', 'CSS'],
     githubLink: 'https://github.com/DishKhant/recipe-finder-app',
     liveLink: 'https://recipe-finder-app-dish-khants-projects.vercel.app',
@@ -28,7 +28,7 @@ const projects = [
   {
     title: 'To-Do List App',
     description: 'A web application for managing todos, allowing users to add, remove, mark tasks as complete, and clear all tasks.',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80',
+    image: 'https://startinfinity.s3.us-east-2.amazonaws.com/production/blog/post/15/main/xXMabYYezGITsPPA8PduAZXEmXvz0Xr71FEQGqy4.png',
     tags: ['React', 'Typescript', 'JavaScript', 'Context Api', 'CSS'],
     githubLink: 'https://github.com/DishKhant/recipe-finder-app',
     liveLink: 'https://todos-list-app-dish-khants-projects.vercel.app',
@@ -36,7 +36,7 @@ const projects = [
   {
     title: 'Employee Management System',
     description: 'A dynamic web application for managing employee records, including features to add, edit, and delete entries.',
-    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80',
+    image: 'https://externlabs.com/blogs/wp-content/uploads/2022/02/erp.png',
     tags: ['React', 'JavaScript', 'HTML', 'CSS'],
     githubLink: 'https://github.com/DishKhant/Employee-management-system',
     liveLink: 'https://employee-management-system-dish-khants-projects.vercel.app',
