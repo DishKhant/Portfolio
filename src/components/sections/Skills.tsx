@@ -1,17 +1,17 @@
-import { Code, Database, GitBranch, Layout, Box } from 'lucide-react';
+import { Code, Database, GitBranch, Layout, Box, FileText, Server } from 'lucide-react';
 
 const skills = [
-  { name: 'React JS', icon: <Code className="text-indigo-600" size={32} /> },
-  { name: 'JavaScript', icon: <Code className="text-green-600" size={32} /> }, // JavaScript typically uses yellow/golden tones
+  { name: 'React JS', icon: <Code className="text-green-600" size={32} /> },
+  { name: 'JavaScript', icon: <FileText className="text-yellow-500" size={32} /> },
   { name: 'Redux', icon: <Box className="text-purple-600" size={32} /> },
-  { name: 'Redux toolkit', icon: <Box className="text-purple-700" size={32} /> }, // Use purple for Redux Toolkit
-  { name: 'IndexedDB', icon: <Database className="text-black" size={32} /> }, // IndexedDB uses database icon, change color to black
-  { name: 'JQuery', icon: <Code className="text-blue-600" size={32} /> }, // jQuery commonly uses blue tones
-  { name: 'Git', icon: <GitBranch className="text-gray-600" size={32} /> }, // Git typically uses a neutral/gray tone
-  { name: 'HTML', icon: <Layout className="text-orange-600" size={32} /> },
-  { name: 'CSS', icon: <Layout className="text-blue-500" size={32} /> }, // Blue is a standard for CSS
-  { name: 'Bootstrap', icon: <Layout className="text-primary" size={32} /> }, // Bootstrap's primary color is often red
-  { name: 'Tailwind CSS', icon: <Layout className="text-blue-500" size={32} /> }, // Tailwind is often associated with teal/turquoise
+  { name: 'Redux Toolkit', icon: <Box className="text-purple-700" size={32} /> },
+  { name: 'IndexedDB', icon: <Database className="text-teal-500" size={32} /> },
+  { name: 'JQuery', icon: <Code className="text-green-500" size={32} /> },
+  { name: 'Git', icon: <GitBranch className="text-black-600" size={32} /> },
+  { name: 'HTML', icon: <FileText className="text-red-500" size={32} /> },
+  { name: 'CSS', icon: <Server className="text-blue-600" size={32} /> },
+  { name: 'Bootstrap', icon: <Layout className="text-violet-600" size={32} /> },
+  { name: 'Tailwind CSS', icon: <Server className="text-sky-500" size={32} /> },
 ];
 
 const Skills = () => {
