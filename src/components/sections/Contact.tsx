@@ -69,8 +69,7 @@ const Contact = () => {
 
             <div className="mt-12">
               <iframe
-                // src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555098464!2d-122.507640!3d37.757815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan+Francisco%2C+CA!5e0!3m2!1sen!2sus!4v1"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.9287402029496!2d70.78645991495969!3d22.303894985318412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959ca6c3029971d%3A0x4cb23d7d54078e88!2sRajkot%2C%20Gujarat%2C%20India!5e0!3m2!1sen!2sus!4v1"
+               src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14741.158660300032!2d70.80216!3d22.30389!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959ca6c3029971d%3A0x4cb23d7d54078e88!2sRajkot%2C%20Gujarat%2C%20India!5e0!3m2!1sen!2sus!4v1&z=12"
                 width="100%"
                 height="300"
                 style={{ border: 0 }}
