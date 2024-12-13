@@ -1,6 +1,6 @@
 import React from 'react';
 import { ArrowRight, Github, Linkedin, Mail } from 'lucide-react';
-import ProfilePhoto from '../../images/DSC000322.jpg'
+import ProfilePhoto from '../../images/DSC000322.jpeg'
 
 const Home = () => {
   return (
