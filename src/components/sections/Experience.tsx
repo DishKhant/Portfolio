@@ -13,28 +13,18 @@ const experiences = [
       'Working multiple React.js projects, implementing best coding practices.',
     ],
   },
-  // {
-  //   title: 'Full Stack Developer',
-  //   company: 'Digital Innovations',
-  //   period: '2018 - 2020',
-  //   description: 'Developed and maintained multiple client projects using React, Node.js, and PostgreSQL.',
-  //   achievements: [
-  //     'Delivered 20+ successful projects',
-  //     'Reduced bug reports by 60%',
-  //     'Improved code coverage to 90%',
-  //   ],
-  // },
-  // {
-  //   title: 'Frontend Developer',
-  //   company: 'Creative Agency',
-  //   period: '2016 - 2018',
-  //   description: 'Created responsive and interactive web applications for various clients.',
-  //   achievements: [
-  //     'Built 30+ responsive websites',
-  //     'Implemented modern UI/UX practices',
-  //     'Optimized website load times',
-  //   ],
-  // },
+  {
+    title: 'Front-end Developer',
+    company: 'Digieagle Inc',
+    period: 'Feb 2024 - Present',
+    description: 'Focused on designing and developing scalable, responsive web applications using modern front-end technologies.',
+    achievements: [
+      'Proficient in Next.js React.js, JavaScript.',
+      'Built dynamic UI components with HTML, CSS, JavaScript and Tailwind CSS.',
+      'Gained hands-on experience in Git and GitHub for version control.',
+      'Working multiple Next.js projects, implementing best coding practices.',
+    ],
+  },
 ];
 
 const Experience = () => {
