@@ -1,7 +1,8 @@
 import { Code, Database, GitBranch, Layout, Box, FileText, Server } from 'lucide-react';
 
 const skills = [
-  { name: 'React JS', icon: <Code className="text-green-600" size={32} /> },
+  { name: 'Next.js', icon: <Code className="text-black-600" size={32} /> },
+  { name: 'React.js', icon: <Code className="text-green-600" size={32} /> },
   { name: 'JavaScript', icon: <FileText className="text-yellow-500" size={32} /> },
   { name: 'Redux', icon: <Box className="text-purple-600" size={32} /> },
   { name: 'Redux Toolkit', icon: <Box className="text-purple-700" size={32} /> },
@@ -12,6 +13,8 @@ const skills = [
   { name: 'CSS', icon: <Server className="text-blue-600" size={32} /> },
   { name: 'Bootstrap', icon: <Layout className="text-violet-600" size={32} /> },
   { name: 'Tailwind CSS', icon: <Server className="text-sky-500" size={32} /> },
+  { name: 'PrimeReact', icon: <Server className="text-red-500" size={32} /> },
+  { name: 'PrimeFlex', icon: <Server className="text-yellow-500" size={32} /> },
 ];
 
 const Skills = () => {
